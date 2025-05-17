@@ -56,6 +56,6 @@ A short description of the project.
     │
     └── plots.py                <- Code to create visualizations
 ```
-
+How to install requirement: 
 --------
 
